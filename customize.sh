@@ -2,7 +2,7 @@
 #=================================================
 # Description: DIY script
 # Lisence: MIT
-# Author: eSirPlayground
+# Author: chuenyuPlayground
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 #1. Modify default IP
